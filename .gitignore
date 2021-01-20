@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+javaee_fix.iml
+/.idea/*
+/target/*
